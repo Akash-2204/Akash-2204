@@ -5,6 +5,14 @@
 Welcome to my corner of the internet! I’m Akash, a passionate Full-Stack Developer who loves creating scalable, intuitive, and high-performance applications. I thrive at the intersection of design, code, and innovation—whether it’s building responsive UIs or crafting robust back-end solutions.
 
 ---
+### 🔧 **Tools of the Trade:**
+
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS  
+- **Backend:** Node.js, Python, REST APIs, GraphQL, Django  
+- **Cloud:** AWS (Lambda, S3, CloudFront), Docker  
+- **Testing:** Jest, Cypress, Unit Testing
+
+---
 
 ### 🎯 **What Drives Me:**
 
@@ -27,15 +35,6 @@ Welcome to my corner of the internet! I’m Akash, a passionate Full-Stack Devel
 - **Teamwork:** Whether I’m leading or collaborating, I focus on delivering exceptional results with teams.
 
 - **Attention to Detail:** From pixel-perfect designs to optimized code, I strive for excellence in everything I do.
-
----
-
-### 🔧 **Tools of the Trade:**
-
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS  
-- **Backend:** Node.js, Python, REST APIs, GraphQL, Django  
-- **Cloud:** AWS (Lambda, S3, CloudFront), Docker  
-- **Testing:** Jest, Cypress, Unit Testing
 
 ---
 
