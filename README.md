@@ -56,7 +56,7 @@ Feel free to reach out to explore exciting projects, collaborate, or just say hi
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-thirumuruganantham/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-thirumuruganantham/)
 
 # 💻 Tech Stack:
 
